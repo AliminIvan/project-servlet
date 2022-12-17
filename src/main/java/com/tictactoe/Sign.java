@@ -1,5 +1,6 @@
 package com.tictactoe;
 
+@SuppressWarnings("unused")
 public enum Sign {
     EMPTY(' '),
     CROSS('X'),
